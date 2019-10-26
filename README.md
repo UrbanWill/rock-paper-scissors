@@ -2,11 +2,11 @@
 
 [Hosted Version](https://urban-rock-paper-scissors.netlify.com/)
 
-Coded with
--HTML5 
--CSS3
--JavaScript
--jQuery.
+Coded with:
+- HTML5 
+- CSS3
+- JavaScript
+- jQuery.
 
 Pick rock paper or scissors by clicking on it, the computer is going to randomly make a choice and compare to the user's choice.
 
