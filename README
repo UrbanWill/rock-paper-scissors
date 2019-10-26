@@ -1,5 +1,13 @@
-This is my first project after finishing Free Code Camp Javascript Algorithms And Data Structures Certification.
-I followed a tutorial from Whatsdev posted on FCC youtube channel https://www.youtube.com/watch?v=jaVNP3nIAv0
-Easy and lot's of fun!
-
 Hosted version: https://urban-rock-paper-scissors.netlify.com/
+
+A fun Rock Paper and Scissors game! 
+
+Coded with HTML5, CSS3, JavaScript and jQuery.
+
+Pick rock paper or scissors by clicking on it, the computer is going to randomly make a choice and compare to the user's choice.
+
+In case of win/lose the score is going to be updated, the ring around the clicked icon is going to change color and
+a message will be displayed.
+
+In case of a draw the ring around the clicked icon is going to change color and a message will be displayed.
+
